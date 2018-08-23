@@ -4,7 +4,7 @@ public class Customer
 {
 	private void m1()
 	{
-		// TODO Auto-generated method stub
+		System.out.println("m1() method added");
 
 	}
 }
